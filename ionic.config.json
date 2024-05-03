@@ -1,5 +1,7 @@
 {
   "name": "valla-scanner",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
